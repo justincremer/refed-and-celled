@@ -6,5 +6,5 @@ edition = "2018"
 [dependencies]
 
 [[bin]]
-name = rac 
-path = src/bin/main.rs 
+name = "rac"
+path = "src/bin/main.rs"
